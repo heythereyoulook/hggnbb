@@ -1,6 +1,6 @@
 provider "azurem" {
 
 }
-resource "" "name" {
+resource "azurerm_resource_group" "name" {
   
 }
