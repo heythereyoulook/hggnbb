@@ -1,3 +1,6 @@
 provider "azurem" {
+
+}
+resource "" "name" {
   
 }
